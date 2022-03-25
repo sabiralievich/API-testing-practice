@@ -1,6 +1,10 @@
-package gb.backendtestingautomation.practice;
+package in.reqres;
 
-import gb.backendtestingautomation.practice.dto.response.*;
+import in.reqres.dto.response.*;
+import in.reqres.dto.response.ResourceListData;
+import in.reqres.dto.response.UserData;
+import in.reqres.dto.response.UserDataCreationRequest;
+import in.reqres.dto.response.UserListData;
 import io.restassured.builder.ResponseSpecBuilder;
 import io.restassured.specification.ResponseSpecification;
 import org.hamcrest.Matchers;

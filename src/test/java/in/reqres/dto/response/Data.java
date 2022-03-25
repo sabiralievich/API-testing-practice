@@ -1,4 +1,4 @@
-package gb.backendtestingautomation.practice.dto.response;
+package in.reqres.dto.response;
 
 import java.util.HashMap;
 import java.util.Map;
